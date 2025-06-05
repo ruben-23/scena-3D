@@ -62,7 +62,7 @@ const circleCenter = {
 
 const mixers = [];
 // vaca
-loadModel('public/Grooving_Cow.glb', { x: 0, y: 0, z: -5 }, 0.4, { x: Math.PI / 9, y: 0, z: 0 });
+loadModel('public/Grooving_cow.glb', { x: 0, y: 0, z: -5 }, 0.4, { x: Math.PI / 9, y: 0, z: 0 });
 // gard
 loadModel('public/fence_wood.glb', { x: -0.8, y: 0, z: -9 }, 0.8, { x: 0, y: 20, z: 0 });
 loadModel('public/fence_wood.glb', { x: -3.9, y: 0, z: -9 }, 0.8, { x: 0, y: 20, z: 0 });
